@@ -8,9 +8,9 @@ The Diabetes Prediction Assistant is an innovative Python-based application desi
 ->numpy: For numerical operations and handling arrays.   
 ->pyttsx3: For text-to-speech conversion.   
 ->SpeechRecognition: For voice recognition capabilities.   
-->scikit-learn: For machine learning algorithms and tools.
-(pip install pandas numpy pyttsx3 SpeechRecognition scikit-learn)
-also want to install additional libraries like pyaudio, which is often required for microphone input with SpeechRecognition:
+->scikit-learn: For machine learning algorithms and tools.   
+(pip install pandas numpy pyttsx3 SpeechRecognition scikit-learn)  
+also want to install additional libraries like pyaudio, which is often required for microphone input with SpeechRecognition:   
 (pip install pyaudio)
 
 **About data**   
