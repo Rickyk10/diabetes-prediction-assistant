@@ -13,8 +13,7 @@ The Diabetes Prediction Assistant is an innovative Python-based application desi
 also want to install additional libraries like pyaudio, which is often required for microphone input with SpeechRecognition:
 (pip install pyaudio)
 
-**About data**  
-
+**About data**   
 This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient.
 The dataset consist of total 16 features and one target variable named class.
 
