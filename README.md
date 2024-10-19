@@ -4,7 +4,6 @@
 The Diabetes Prediction Assistant is an innovative Python-based application designed to empower users in assessing their risk of diabetes through a simple and interactive interface. Leveraging advanced machine learning algorithms, the application analyzes user-inputted health parameters to provide accurate predictions and detailed risk assessments. With its user-friendly design, the Diabetes Prediction Assistant not only offers valuable insights but also incorporates speech functionality, enhancing accessibility and engagement. This tool aims to raise awareness about diabetes risk factors and promote proactive health management.
 
 **Required Libraries:-**   
-
 ->pandas: For data manipulation and analysis.
 ->numpy: For numerical operations and handling arrays.
 ->pyttsx3: For text-to-speech conversion.
