@@ -36,6 +36,12 @@ The dataset consist of total 16 features and one target variable named class.
 
 Class: Positive / Negative
 
+### How to run 
+1. Open the AI-Diabetes-Check-System-Using-Voice-Command folder in VS Code
+2. In the terminal run the project_3_diabetes_prediction.py file
+3. User can opt for voice or text communication
+4. If the voice is not recognized the user has to type the input 
+
 
 
 
